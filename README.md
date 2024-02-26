@@ -1,1 +1,2 @@
 # HOME-PRICE-PREDICTION-MASTER-IN-MACHINE-LEARNING
+House Price predictions are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. People don’t know about the factors that influence the house price. But by using Machine learning we can easily find the house which is to be perfect for us and helps to predict the price accurately.
