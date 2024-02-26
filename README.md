@@ -3,6 +3,15 @@
 House Price predictions are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. People don’t know about the factors that influence the house price. But by using Machine learning we can easily find the house which is to be perfect for us and helps to predict the price accurately.
 ## Description: 
 Predict home prices using XGBoost with factors like income, schools, hospitals, and crime rates.
+## Importing Libraries and Dataset
+Here we are using 
+
+### Pandas 
+* To load the Dataframe
+### Matplotlib 
+* To visualize the data features i.e. barplot
+### Seaborn 
+* To see the correlation between features using the heatmap
 ## Data cleaning:
 Data cleaning is the way to improvise the data or remove incorrect, corrupted or irrelevant data.
 
@@ -84,3 +93,4 @@ Key Points:
 * The number of principal components to retain should be chosen carefully to balance information retention and model performance.
 * This is a simplified overview, and the specific steps may vary depending on the chosen model and desired level of complexity.
 ## Conclusion:
+While utilizing both linear regression and PCA can be a viable approach for house price prediction, its effectiveness depends heavily on the specific dataset and chosen parameters. PCA's dimensionality reduction can improve interpretability and potentially address multicollinearity, but might lead to information loss. Evaluating the model's performance through metrics like R-squared and comparing it to alternatives like without PCA can help determine the best approach for your specific situation.
